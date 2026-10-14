@@ -1,0 +1,101 @@
+id_mahasiswa,usia,jenis_kelamin,program_studi,kota_asal,jam_belajar_per_minggu,kehadiran_persen,nilai_tugas,nilai_ujian
+M001,21,Laki-laki,Sistem Informasi,Yogyakarta,6.5,63,67,51
+M002,22,Perempuan,Sistem Informasi,Yogyakarta,,100,92,89
+M003,22,Laki-laki,Sistem Informasi,Sleman,4.5,98,74,75
+M004,21,Laki-laki,Informatika,Bantul,19,93,73,98
+M005,22,Perempuan,Manajemen,Solo,16.9,,86,83
+M006,21,Laki-laki,Manajemen,Bantul,19.8,78,73,79
+M007,,Laki-laki,Sistem Informasi,Magelang,16.5,75,71,74
+M008,21,Laki-laki,Informatika,Magelang,,67,95,84
+M009,23,Laki-laki,,,3.9,97,70,62
+M010,21,Laki-laki,,Solo,4.1,69,64,61
+M011,21,Laki-laki,Informatika,Bantul,,93,88,96
+M012,21,Laki-laki,Informatika,Magelang,13.7,100,73,88
+M013,20,Laki-laki,Manajemen,Magelang,19.6,92,74,88
+M014,21,Laki-laki,Sistem Informasi,Sleman,,72,64,53
+M015,22,Perempuan,Informatika,Sleman,10.5,70,74,72
+M016,24,Perempuan,Manajemen,Yogyakarta,9.5,98,61,85
+M017,24,Perempuan,Manajemen,Sleman,6.6,82,65,75
+M018,21,Perempuan,,Yogyakarta,12.2,88,60,72
+M019,21,Laki-laki,Manajemen,Bantul,12.4,,78,76
+M020,23,Perempuan,Manajemen,Magelang,2.6,94,66,70
+M021,,Laki-laki,Manajemen,,13.2,92,,80
+M022,22,Laki-laki,,Bantul,18.9,78,79,87
+M023,20,Perempuan,Sistem Informasi,Magelang,3.3,65,48,47
+M024,20,Perempuan,Manajemen,Bantul,14,,72,83
+M025,19,Laki-laki,Informatika,Sleman,,90,78,74
+M026,20,Perempuan,,Sleman,,,74,81
+M027,20,Perempuan,Manajemen,Solo,15.2,81,85,84
+M028,23,Laki-laki,Sistem Informasi,,17.9,66,84,80
+M029,23,Perempuan,Informatika,Bantul,16.9,69,77,90
+M030,23,Perempuan,Manajemen,Yogyakarta,12.3,98,63,70
+M031,24,Laki-laki,Manajemen,,6,92,75,75
+M032,23,Laki-laki,Manajemen,,13.2,83,87,83
+M033,21,,Manajemen,,11,84,64,64
+M034,24,Laki-laki,Sistem Informasi,Yogyakarta,6.1,69,52,67
+M035,22,,Manajemen,Sleman,3.9,94,54,61
+M036,24,Laki-laki,Informatika,Sleman,6.2,99,72,57
+M037,23,Laki-laki,Manajemen,Yogyakarta,18.6,92,82,77
+M038,20,Perempuan,Manajemen,,,63,84,67
+M039,20,Laki-laki,Manajemen,Solo,16.8,67,72,84
+M040,,Perempuan,Sistem Informasi,Magelang,10,81,76,62
+M041,20,Perempuan,Manajemen,Solo,,75,76,63
+M042,23,Perempuan,Informatika,Yogyakarta,13.7,100,71,75
+M043,21,,Informatika,,14.8,95,82,89
+M044,19,Laki-laki,Manajemen,Sleman,8.8,80,61,60
+M045,22,Perempuan,Informatika,Bantul,10.5,78,81,67
+M046,,Perempuan,Sistem Informasi,Solo,4.8,81,53,60
+M047,,Perempuan,Sistem Informasi,Sleman,19.9,83,95,83
+M048,,Perempuan,Manajemen,Magelang,11.8,72,87,66
+M049,21,Laki-laki,Manajemen,Magelang,12,87,63,83
+M050,19,Laki-laki,Manajemen,Yogyakarta,14.3,72,80,66
+M051,19,Laki-laki,Sistem Informasi,Solo,16.4,79,84,86
+M052,20,Perempuan,Informatika,Magelang,17.4,73,78,93
+M053,23,Laki-laki,Sistem Informasi,Sleman,7.4,73,60,72
+M054,,Perempuan,Sistem Informasi,Magelang,3.2,61,71,52
+M055,24,Laki-laki,Manajemen,,4.3,77,,51
+M056,19,Perempuan,Manajemen,Solo,12.8,64,61,77
+M057,,Laki-laki,,,9.4,,56,61
+M058,24,Laki-laki,Manajemen,Solo,12,83,68,63
+M059,19,Perempuan,Sistem Informasi,Solo,18,91,75,89
+M060,24,Perempuan,Informatika,Yogyakarta,10.3,68,74,69
+M061,22,Laki-laki,Manajemen,Magelang,10.6,,82,78
+M062,23,Laki-laki,Sistem Informasi,Yogyakarta,16,90,74,82
+M063,21,Perempuan,Manajemen,Sleman,17.5,80,77,80
+M064,22,Laki-laki,Informatika,Solo,11.2,72,76,67
+M065,22,Laki-laki,Sistem Informasi,Bantul,19.9,66,91,93
+M066,24,Laki-laki,Sistem Informasi,Yogyakarta,15.5,,71,82
+M067,20,Perempuan,Informatika,Magelang,15.1,,,85
+M068,21,Laki-laki,Manajemen,Yogyakarta,6.1,65,,57
+M069,20,Perempuan,Sistem Informasi,,7.9,90,79,81
+M070,19,Laki-laki,Informatika,Magelang,18,99,80,91
+M071,22,,Sistem Informasi,,3.2,91,,50
+M072,24,Perempuan,Informatika,Magelang,10.2,81,72,63
+M073,21,Perempuan,Informatika,Yogyakarta,15.6,90,78,82
+M074,22,Perempuan,Manajemen,Yogyakarta,19.8,66,78,86
+M075,22,Perempuan,,Bantul,8,66,66,63
+M076,23,Laki-laki,Sistem Informasi,Bantul,10.1,76,77,64
+M077,22,Laki-laki,Informatika,Solo,,96,82,77
+M078,19,Laki-laki,Informatika,,6.5,71,55,56
+M079,24,Perempuan,,Bantul,,80,76,89
+M080,20,Perempuan,Informatika,Bantul,17.2,88,,88
+M081,23,Laki-laki,Sistem Informasi,Magelang,,80,58,64
+M082,20,Perempuan,Manajemen,Solo,6.6,85,68,61
+M083,19,Laki-laki,Manajemen,Magelang,19.3,88,,90
+M084,23,Laki-laki,Manajemen,Sleman,14,80,89,69
+M085,19,Laki-laki,Informatika,,12.4,79,80,71
+M086,19,Perempuan,Informatika,Magelang,19.5,81,99,88
+M087,22,Perempuan,Sistem Informasi,Sleman,14.6,66,89,84
+M088,24,Laki-laki,Manajemen,Yogyakarta,8.1,99,61,65
+M089,23,Laki-laki,Manajemen,Bantul,17,71,84,68
+M090,23,Laki-laki,Sistem Informasi,Yogyakarta,15.8,77,86,69
+M091,23,Perempuan,Manajemen,Solo,4.2,97,51,58
+M092,24,Laki-laki,Informatika,Sleman,14,,85,66
+M093,,Perempuan,Manajemen,Magelang,17.7,99,77,87
+M094,20,Laki-laki,Informatika,Solo,,92,65,66
+M095,20,Perempuan,Informatika,Bantul,4.6,80,65,64
+M096,19,Perempuan,Sistem Informasi,Magelang,17.4,88,,93
+M097,,Laki-laki,Manajemen,Yogyakarta,7.4,64,81,54
+M098,19,Perempuan,Informatika,Magelang,2.2,,54,55
+M099,19,Perempuan,Informatika,Magelang,12.3,64,67,59
+M100,23,,Informatika,,10.8,86,59,82
